@@ -1,0 +1,7 @@
+{
+  "name": "My HAVEN",
+  "description": "AI-powered room organization, decluttering assistant, and interior design chatbot.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
